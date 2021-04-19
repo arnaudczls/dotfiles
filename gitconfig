@@ -50,4 +50,5 @@
 [pull]
   rebase = false
 [user]
-	name = arnaud
+	name = arnaud CAZELLES
+	email = a.cazelles@gmail.com
